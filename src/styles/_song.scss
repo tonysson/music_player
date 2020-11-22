@@ -1,0 +1,39 @@
+//  This is a partial
+.song_container{
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+     img {
+    width: 25%;
+    border-radius: 50%;
+    transition: all 2s ease;
+  }
+
+   h2 {
+    padding: 1.3rem 1rem 1rem 1rem;
+    font-family: 'Dancing Script', cursive;
+    color: #fff;
+  }
+  h3 {
+    font-size: 1rem;
+    font-family: 'Bad Script', cursive;
+    font-weight: bold;
+      color: #fff;
+  }
+}
+
+@media screen and (max-width: 768px){
+
+  .song_container{
+    img {
+      width: 60%;
+    }
+  }
+
+}
+
+
+
