@@ -1,5 +1,8 @@
 # Music_player is build with React js
 
+![msc](https://user-images.githubusercontent.com/53177468/103591014-3b103400-4eef-11eb-8307-339d1cfc56e2.PNG)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
