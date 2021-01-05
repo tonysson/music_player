@@ -7,10 +7,10 @@
 
 ## TECH
 
-. ReactJs with functional components 
-(No use of redux or context Api to manage state and data in the app , I pass data manualy throw the components via Props )
+. REACT Js with functional components 
+ ( No use of redux or context Api to manage state and data in the app , I pass data manualy throw the components via Props )
 
-. Scss
+. SASS
 
 ## Demo 
 vistit this url https://my-togo-fav.netlify.app/
